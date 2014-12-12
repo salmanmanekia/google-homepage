@@ -1,0 +1,20 @@
+#apps {
+    height: 30px;
+    width: 30px;
+    background: url("https://ssl.gstatic.com/gb/images/i2_9ef0f6fa.png") no-repeat scroll -326px -52px / 356px 144px transparent;
+    opacity: 0.55;
+}
+
+a {
+	vertical-align: middle;
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	border: 1px dashed red;
+	margin-left: 10px;
+}
+
+#navbar {
+	float: right;
+	border: 1px dashed red;
+}
